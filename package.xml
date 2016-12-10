@@ -4,9 +4,5 @@
         <members>TDClient</members>
         <name>ApexClass</name>
     </types>
-    <types>
-        <members>Message__c</members>
-        <name>CustomObject</name>
-    </types>
     <version>34.0</version>
 </Package>
